@@ -1,0 +1,10 @@
+build/
+data/
+results/
+var/
+/kds_server
+/kds_server.prev
+datasets/
+.venv/
+__pycache__/
+models/
